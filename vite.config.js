@@ -8,7 +8,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/dorixona-nazorati/',
+  base: '/dorixonanazorati/',
   build: {
     chunkSizeWarningLimit: 1000,
     rollupOptions: {
